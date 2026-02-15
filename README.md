@@ -26,6 +26,6 @@
              
 ```
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vexeeldev&layout=compact&langs_count=8&theme=tokyonight)
+![Repos Language Monokai](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vexeeldev&theme=monokai)
 
 </div>
