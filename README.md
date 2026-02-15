@@ -25,6 +25,7 @@
 
              
 ```
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vexeeldev&layout=default&theme=tokyonight&langs_count=10)
+
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vexeeldev&layout=compact&langs_count=8&theme=tokyonight)
 
 </div>
