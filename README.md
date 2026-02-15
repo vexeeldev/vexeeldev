@@ -28,6 +28,4 @@
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vexeeldev&layout=compact&langs_count=8&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vexeeldev&layout=compact&theme=radical)
-
 </div>
